@@ -1,0 +1,7 @@
+streamlit
+SimpleITK
+numpy
+scipy
+tensorflow
+pynrrd
+matplotlib
