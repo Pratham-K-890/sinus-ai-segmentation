@@ -31,8 +31,8 @@ A Streamlit web app that takes CBCT (Cone Beam CT) scans of the maxillofacial re
 ## Installation
 
 ```bash
-git clone https://github.com/Pratham-K-890/sinus_segmentation_gender_predication.git
-cd sinus_segmentation_gender_predication
+git clone https://github.com/Pratham-K-890/sinus-ai-segmentation.git
+cd sinus-ai-segmentation
 pip install -r requirements.txt
 ```
 
